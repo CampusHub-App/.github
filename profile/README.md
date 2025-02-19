@@ -39,3 +39,34 @@ Fitur ini memungkinkan penyelenggara untuk memverifikasi kehadiran peserta denga
 
 ### ● Melihat Partisipan pada Event yang Telah Dibuat
 Penyelenggara dapat melihat daftar peserta yang sudah mendaftar untuk acara yang dibuat. Fitur ini membantu penyelenggara dalam mempersiapkan acara dan memantau jumlah peserta.
+
+## Tech Stack Front-End
+
+### React.js
+React.js digunakan untuk membangun UI aplikasi **CampusHub**.  
+
+### Tailwind CSS
+Tailwind CSS digunakan untuk styling UI **CampusHub**.  
+
+### Vite.js
+Vite.js digunakan sebagai **build tool** untuk pengembangan front-end.
+
+## Tech Stack Back-End
+
+### Jenkins  
+Otomatisasi pengujian, build, dan deployment.  
+
+### Google Cloud VM  
+Server hosting aplikasi.  
+
+### Docker  
+Containerisasi aplikasi.  
+
+### Laravel  
+Framework back-end.  
+
+### Postman  
+Pengujian API.  
+
+### AWS S3  
+Penyimpanan file.
